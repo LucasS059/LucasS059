@@ -5,6 +5,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasS059&show_icons=true&theme=dracula)
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasS059&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
+
 ## Tecnologias em que estou me familiariazando - FRONT-END
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -13,6 +17,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
+
 
 - 🌱 Estudando ciência da computação
 - 💬 Contate-me no email: lucasbarboza299@gmail.com
