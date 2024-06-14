@@ -17,11 +17,11 @@
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow&color=blue" />
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C"
-
-
+  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C">
+<a href="http://portfoliolucas.s3-website-sa-east-1.amazonaws.com" target="_blank">
+  <img align="center" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=Portfolio&logoColor=white&color=blue">
+</a>
 </div><br/>
-
 
 - 🌱 Estudando ciência da computação
 - 💬 Contate-me no email: lucasbarboza299@gmail.com
