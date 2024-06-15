@@ -5,11 +5,14 @@
 [![Portfólio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white)](http://portfoliolucas.s3-website-sa-east-1.amazonaws.com/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasS059&show_icons=true&theme=dracula)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasS059&theme=radical" />
+</a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasS059&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasS059&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
+
 
 ## Tecnologias 
 <div style="display: inline_block">
