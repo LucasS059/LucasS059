@@ -3,7 +3,6 @@
 ## Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_s059/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-barboza-a2568b285/)
-[![Portfólio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white)](http://portfoliolucas.s3-website-sa-east-1.amazonaws.com/)
 
 ## Estatísticas do GitHub
 <a href="https://github.com/anuraghazra/github-readme-stats">
