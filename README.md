@@ -22,5 +22,5 @@
 </div><br/>
 
 ## Sobre Mim
-- 🌱 Estudando Ciência da Computação
+- 🌱 Estudando Ciência da Computação no Instituto Mauá De Tecnologia (IMT)
 - 💬 Contate-me no email: lucasbarboza299@gmail.com
