@@ -15,6 +15,11 @@ Veja minhas estatísticas e principais linguagens:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasS059&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
+## Habilidades
+- Desenvolvimento Web
+- Programação em Python
+- Banco de Dados MySQL e MongoDB
+
 ## Tecnologias que uso
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,9 +29,9 @@ Veja minhas estatísticas e principais linguagens:
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-</div><br/>
+</div>
 
 ## Contato
-Entre em contato por email: lucasbarboza299@gmail.com ou conecte-se no [LinkedIn](https://www.linkedin.com/in/lucas-silva-barboza-a2568b285/)
-
---- 
+- Email: lucasbarboza299@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/lucas-silva-barboza-a2568b285/)
+---
