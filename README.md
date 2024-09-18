@@ -3,7 +3,7 @@
 ## Sobre Mim
 - 📚 **Interesses:** Eu gosto de tecnologia e do impacto que o desenvolvimento de software pode ter. Programar é uma forma de explorar novas possibilidades e criar soluções inovadoras. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e desenvolver soluções criativas.
 - 🎓 Estudando Ciência da Computação no Instituto Mauá de Tecnologia (IMT)
-- 💬 Contate-me no email: lucasbarboza299@gmail.com
+- 📸 Confira meu Instagram: [lucas_s059](https://www.instagram.com/lucas_s059/)
 
 ## Estatísticas do GitHub
 Veja minhas estatísticas e principais linguagens:
@@ -26,10 +26,7 @@ Veja minhas estatísticas e principais linguagens:
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div><br/>
 
-## Redes Sociais
-Conecte-se comigo nas redes sociais:
+## Contato
+Entre em contato por email: lucasbarboza299@gmail.com ou conecte-se no [LinkedIn](https://www.linkedin.com/in/lucas-silva-barboza-a2568b285/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_s059/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-barboza-a2568b285/)
-
----
+--- 
