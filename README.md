@@ -5,6 +5,9 @@
 - 🎓 Estudando Ciência da Computação no Instituto Mauá de Tecnologia (IMT)
 - 📸 Confira meu Instagram: [lucas_s059](https://www.instagram.com/lucas_s059/)
 
+## Meu Portfólio
+- 🌐 Acesse meu portfólio pessoal: [Lucas Silva - Portfólio](https://personal-site.d2jtbyiqfovfko.amplifyapp.com/)
+
 ## Estatísticas do GitHub
 Veja minhas estatísticas e principais linguagens:
 
@@ -34,4 +37,3 @@ Veja minhas estatísticas e principais linguagens:
 ## Contato
 - Email: lucasbarboza299@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/lucas-silva-barboza-a2568b285/)
----
