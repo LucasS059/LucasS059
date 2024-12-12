@@ -20,8 +20,9 @@ Veja minhas estatísticas e principais linguagens:
 
 ## Habilidades
 - Desenvolvimento Web
+- Desenvolvimento APP
 - Programação em Python
-- Banco de Dados MySQL e MongoDB
+- Banco de Dados MySQL
 
 ## Tecnologias que uso
 <div style="display: inline_block">
