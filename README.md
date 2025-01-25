@@ -6,7 +6,7 @@
 - 📸 Confira meu Instagram: [lucas_s059](https://www.instagram.com/lucas_s059/)
 
 ## Meu Portfólio
-- 🌐 Acesse meu portfólio pessoal: [Lucas Silva - Portfólio](https://personal-site.d2jtbyiqfovfko.amplifyapp.com/)
+- 🌐 Acesse meu portfólio pessoal: [Lucas Silva - Portfólio](https://portfolio-yg0y.onrender.com/)
 
 ## Estatísticas do GitHub
 Veja minhas estatísticas e principais linguagens:
