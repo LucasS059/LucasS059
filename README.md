@@ -2,7 +2,7 @@
 
 ## Sobre Mim  
 - 🎓 Estudante de Ciência da Computação no **Instituto Mauá de Tecnologia (IMT)**.  
-- 💻 Conhecimento em desenvolvimento web, mobile e bancos de dados.  
+- 💻 Desenvolvedor full-stack com conhecimento em desenvolvimento de software, mobile, web e bancos de dados relacionais e não relacionais, atuando em todas as camadas de aplicações e entregando soluções robustas e escaláveis.
 - 🔍 Estou sempre aprimorando minhas habilidades e explorando novas tecnologias.  
 
 ---
