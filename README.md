@@ -21,11 +21,10 @@
 ---
 
 ## Habilidades  
-- **Desenvolvimento:** Web e Mobile  
-- **Frameworks:** Flutter, Bootstrap  
-- **Linguagens:** Python, JavaScript  
-- **Bancos de Dados:** MySQL, MongoDB  
-
+- **Desenvolvimento Web:** HTML, CSS, JavaScript, React, Bootstrap
+- **Aplicativos:** Flutter, React Native (com Expo)
+- **Back-End:** Python, Node.js
+- **Banco de Dados:** MySQL, MongoDB
 ---
 
 ## Tecnologias  
