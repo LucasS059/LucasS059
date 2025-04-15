@@ -44,4 +44,3 @@
 ## Contato  
 - 📧 [lucasbarboza299@gmail.com](mailto:lucasbarboza299@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-silva-barboza-a2568b285/)  
-- 📸 [Instagram](https://www.instagram.com/lucas_s059/)  
