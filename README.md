@@ -10,7 +10,6 @@
 
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
