@@ -32,13 +32,12 @@
 
 ## 🚀 Meus Principais Projetos
 
-* **[📈 Veltory – Controle de Estoque](link-para-o-seu-repo-Veltory-aqui)**
+* **[📈 Veltory – Controle de Estoque](https://portfolio-yg0y.onrender.com/html/projetos.html)**
     * Sistema fullstack com **Node.js, MongoDB, HTML e CSS** para controle de estoque, com dashboard, autenticação JWT e CRUD completo.
-* **[🚇 Metrô SP – Gestão de Equipamentos](link-para-o-seu-repo-Metro-aqui)**
+* **[🚇 Metrô SP – Gestão de Equipamentos](https://portfolio-yg0y.onrender.com/html/projetos.html)**
     * App multiplatforma (Flutter) para gestão de manutenções de equipamentos, com leitura de QR Code e consultas rápidas.
-* **[🧠 API de Quiz com IA](link-para-o-seu-repo-Quiz-aqui)**
+* **[🧠 API de Quiz com IA](https://portfolio-yg0y.onrender.com/html/projetos.html)**
     * API em Python/Flask que utiliza a GPT-3.5 para gerar perguntas e respostas, com integração a um banco MySQL.
-
 ---
 
 ## 💻 Meu Kit de Ferramentas
