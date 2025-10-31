@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/LucasS059">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasS059&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasS059&theme=dracula&show_icons=true" alt="Estatísticas do GitHub">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasS059&theme=dracula&layout=compact&langs_count=7" alt="Linguagens Mais Usadas">
   </a>
 </div>
