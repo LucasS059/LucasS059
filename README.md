@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Wave"> Olá! Eu sou Lucas Silva Barboza
 
-### 💻 Desenvolvedor Fullstack | 🎓 Ciência da Computação
+### 💻 Desenvolvedor Fullstack |🎓 Ciência da Computação
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-barboza-a2568b285/)
 [![Portfolio](https://img.shields.io/badge/-Portfólio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-yg0y.onrender.com/)
@@ -14,13 +14,11 @@
 
 ## 🚀 Sobre Mim
 
-Estagiário de Desenvolvimento de Software na **Wassamara**, com foco em soluções **Fullstack** e **Mobile**. Trabalho desde o backend (APIs robustas) até o frontend (Web e Flutter), garantindo entrega completa e qualidade em produção.
+Estagiário de Desenvolvimento de Software na **Wassamara**, com foco em soluções **Fullstack**. Trabalho desde o backend (APIs robustas) até o frontend (Web), garantindo entrega completa e qualidade em produção.
 
 <br>
 
 ## 🛠️ Stack Tecnológica
-
-<div align="center">
 
 ### Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -44,7 +42,6 @@ Estagiário de Desenvolvimento de Software na **Wassamara**, com foco em soluç�
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
 
 <br>
 
