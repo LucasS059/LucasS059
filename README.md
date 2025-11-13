@@ -72,7 +72,7 @@ Estagiário de Desenvolvimento de Software na **Wassamara**, com foco em soluç�
 
 <div align="center">
   
-### 🔗 [Ver todos os projetos no meu portfólio](https://portfolio-yg0y.onrender.com/)
+### 🔗 [Ver todos os projetos no meu portfólio](https://portfolio-yg0y.onrender.com/html/projetos.html)
 
 </div>
 
