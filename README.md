@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Wave"> Olá! Eu sou Lucas Silva Barboza
 
-### 💻 Desenvolvedor Fullstack | 📱 Mobile | 🎓 Ciência da Computação
+### 💻 Desenvolvedor Fullstack | 🎓 Ciência da Computação
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-barboza-a2568b285/)
 [![Portfolio](https://img.shields.io/badge/-Portfólio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-yg0y.onrender.com/)
@@ -89,18 +89,11 @@ Estagiário de Desenvolvimento de Software na **Wassamara**, com foco em soluç�
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasS059&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasS059&theme=github-dark&hide_border=true" alt="Gráfico de Atividade" /></div>
 
 <br>
 
 <div align="center">
-  
-### 💬 Vamos conversar!
-
-[![LinkedIn](https://img.shields.io/badge/-Me_encontre_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-barboza-a2568b285/)
-
----
 
 ⭐ **Gostou de algum projeto? Deixe uma estrela!** ⭐
 
