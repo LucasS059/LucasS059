@@ -1,96 +1,72 @@
 <div align="center">
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Wave"> Olá! Eu sou Lucas Silva Barboza
-
-### 💻 Desenvolvedor Fullstack |🎓 Ciência da Computação
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-barboza-a2568b285/)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-yg0y.onrender.com/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasbarboza299@gmail.com)
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lucas%20Silva&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-<br>
-
-## 🚀 Sobre Mim
-
-Estagiário de Desenvolvimento de Software na **Wassamara**, com foco em soluções **Fullstack**. Trabalho desde o backend (APIs robustas) até o frontend (Web), garantindo entrega completa e qualidade em produção.
-
-<br>
-
-## 🛠️ Stack Tecnológica
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Banco de Dados
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Ferramentas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-<br>
-
-## 🎯 Projetos em Destaque
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>📈 Veltory</h3>
-      <p><strong>Controle de Estoque</strong></p>
-      <p>Sistema Fullstack com CRUD completo, Dashboard interativo e autenticação JWT</p>
-      <p><code>Node.js</code> <code>MongoDB</code></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🚇 Metrô SP</h3>
-      <p><strong>Gestão de Equipamentos</strong></p>
-      <p>App multiplataforma para manutenção com integração de QR Code</p>
-      <p><code>Flutter</code> <code>Mobile</code></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🧠 Quiz IA</h3>
-      <p><strong>API Inteligente</strong></p>
-      <p>Geração dinâmica de quizzes com GPT-3.5 e persistência em banco</p>
-      <p><code>Python</code> <code>Flask</code> <code>MySQL</code></p>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
+    
+  **Desenvolvedor Fullstack** | **Ciência da Computação** | **Dev. Software na Wassamara**
   
-### 🔗 [Ver todos os projetos no meu portfólio](https://portfolio-yg0y.onrender.com/html/projetos.html)
+</div>
 
+---
+
+### 💻 Sobre Mim
+
+Desenvolvedor Fullstack e estudante de Ciência da Computação.
+
+Atualmente, atuo como Estagiário de Desenvolvimento de Software na **Wassamara**, onde desenvolvo soluções robustas utilizando as linguagens que melhor se adaptam a cada projeto. Além da atuação corporativa, possuo experiência prática e conhecimentos sólidos na criação de **sites** e **aplicativos móveis**.
+
+📍 **Links e Contato:** [Meu Portfolio](https://lucasbarboza.dev.br/) • [LinkedIn](https://www.linkedin.com/in/lucas-silva-barboza-a2568b285/) • [Email](mailto:lucasbarboza299@gmail.com)
+
+---
+
+### 🛠️ Stack Tecnológica
+
+**Frontend & Mobile**
+<div align="left">
+  <img align="center" alt="Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasS059&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasS059&layout=compact&langs_count=8&theme=tokyonight"/>
+**Backend**
+<div align="left">
+  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
+<br>
+
+**Bancos de Dados & DevOps**
+<div align="left">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
+
+---
+
+### 📈 Atividade no GitHub
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasS059&theme=github-dark&hide_border=true" alt="Gráfico de Atividade" /></div>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasS059&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="Lucas Barboza streak stats"/>
+</div>
 
 <br>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/LucasS059/LucasS059/output/snake.svg" alt="Snake animation" />
+</div>
 
-⭐ **Gostou de algum projeto? Deixe uma estrela!** ⭐
+---
 
-<img src="https://komarev.com/ghpvc/?username=LucasS059&color=blueviolet&style=flat-square&label=Visitantes" alt="Profile views"/>
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
