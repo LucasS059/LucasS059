@@ -13,6 +13,21 @@
 
 ---
 
+## 👨‍💻 Sobre Mim
+
+Olá! Sou Lucas Silva, desenvolvedor fullstack apaixonado por tecnologia e inovação. Atualmente, estou cursando Ciência da Computação e trabalhando como estagiário de desenvolvimento de software na Wassamara, onde tenho a oportunidade de aplicar e expandir meus conhecimentos em diversas tecnologias.
+
+Minha jornada no desenvolvimento de software me permitiu trabalhar com uma ampla gama de tecnologias, desde desenvolvimento mobile com Flutter até soluções backend robustas com Node.js, .NET e PHP. Tenho experiência tanto com bancos de dados relacionais (MySQL) quanto NoSQL (MongoDB), e utilizo Docker para containerização e deploy de aplicações.
+
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente. Acredito no poder da colaboração e no compartilhamento de conhecimento como forma de evoluir constantemente.
+
+📫 **Entre em contato:**
+- 🌐 Portfolio: [lucasbarboza.dev.br](https://lucasbarboza.dev.br/)
+- 💼 LinkedIn: [lucas-silva-barboza](https://www.linkedin.com/in/lucas-silva-barboza-a2568b285/)
+- 📧 Email: lucasbarboza299@gmail.com
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
