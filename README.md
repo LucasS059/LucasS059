@@ -21,9 +21,9 @@
 const lucas = {
     nome: "Lucas Silva Barboza",
     cargo: "Desenvolvedor Fullstack",
-    educacao: "Ciência da Computação",
+    educação: "Ciência da Computação",
     empresa: "Wassamara",
-    localizacao: "Brasil 🇧🇷",
+    localização: "Brasil 🇧🇷",
     
     trabalho_atual: {
         role: "Estagiário de Desenvolvimento de Software",
