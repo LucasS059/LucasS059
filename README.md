@@ -1,4 +1,8 @@
-### Lucas Barboza | Desenvolvedor Fullstack Júnior
+# Lucas Barboza
+
+Desenvolvedor Fullstack. Construo aplicações web e mobile integradas a bancos de dados relacionais, APIs e inteligência artificial.
+
+Estudante de Ciência da Computação no Instituto Mauá de Tecnologia (IMT).
 
 ---
 
@@ -6,30 +10,25 @@
 
 | Camada | Tecnologias |
 | :--- | :--- |
-| **Frontend** | Next.js, React Native |
-| **Backend** | Node.js, TypeScript, Python |
-| **Database** | PostgreSQL, MySQL, MongoDB |
-| **DevOps/Tools** | Docker, GitHub Actions |
+| **Linguagens** | TypeScript, JavaScript, Python |
+| **Web & Mobile** | Next.js, React, React Native, Expo, Tailwind CSS |
+| **Back-end & Banco** | Node.js, PostgreSQL, MySQL, Supabase, APIs REST |
+| **DevOps & Infra** | Docker, GitHub Actions, Linux, Git |
+
+*Também possuo vivência pontual na manutenção e adaptação de APIs em C#/.NET.*
 
 ---
 
-### Sobre
+### Projetos em Destaque
 
-Atuo do back-end à interface, com foco em entender o problema antes de definir a solução técnica. Já trabalhei em sistemas legados (Node.js, PHP, C#/.NET) e integrações de API em produção.
-
-Estudante de Ciência da Computação no Instituto Mauá de Tecnologia (IMT).
-
----
-
-### Projetos
-
-**FitMind** — app mobile de incentivo à atividade física, com IA conversacional (Gemini) integrada ao histórico de treino do usuário.  
-`React Native` `TypeScript` `Node.js`
+**FitMind**  
+App mobile para monitoramento esportivo com persistência relacional em PostgreSQL (Supabase) e orquestração de prompt dinâmico via Gemini API, alimentada por métricas e histórico de treinos.  
+`React Native` `Expo` `PostgreSQL` `Supabase` `Gemini API`
 
 ---
 
 ### Contato
 
-[![Portfólio](https://img.shields.io/badge/-Portfólio-0077B5?style=flat-square&logo=googlechrome&logoColor=white)](https://lucasbarboza.dev.br/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://lucasbarboza.dev.br/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barboza-dev-br)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.lucas.silva59@gmail.com)
+[![E-mail](https://img.shields.io/badge/-E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasbarboza299@gmail.com)
