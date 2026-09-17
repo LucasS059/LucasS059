@@ -21,6 +21,11 @@ Estudante de Ciência da Computação no Instituto Mauá de Tecnologia (IMT).
 
 ### Projetos em Destaque
 
+**Trimo Detail**  
+Sistema de agendamento para estética automotiva, com gestão de horários, clientes e serviços.  
+Projeto pessoal em desenvolvimento para se tornar um produto SaaS — código fechado nesta fase.  
+`Next.js` `Node.js` `PostgreSQL`
+
 **FitMind**  
 App mobile para monitoramento esportivo com persistência relacional em PostgreSQL (Supabase) e orquestração de prompt dinâmico via Gemini API, alimentada por métricas e histórico de treinos.  
 `React Native` `Expo` `PostgreSQL` `Supabase` `Gemini API`
