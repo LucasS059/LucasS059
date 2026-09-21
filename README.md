@@ -41,7 +41,7 @@ Estudante de Ciência da Computação no **Instituto Mauá de Tecnologia (IMT)**
       <p>App mobile em React Native com persistência em PostgreSQL (Supabase) e orquestração de IA generativa (Gemini API), alimentada por métricas e histórico de treinos do usuário.</p>
       <p><code>React Native</code> <code>Expo</code> <code>PostgreSQL</code> <code>Supabase</code> <code>Gemini API</code></p>
       <p>
-        <a href="https://github.com/LucasS059?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-FF5A1F?style=flat-square&logo=github&logoColor=white" alt="Repositórios" /></a>
+        <a href="https://github.com/LucasS059/FitMind"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-FF5A1F?style=flat-square&logo=github&logoColor=white" alt="Repositórios" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
