@@ -45,12 +45,12 @@ Estudante de Ciência da Computação no **Instituto Mauá de Tecnologia (IMT)**
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Trimo Detail</h3>
-      <p>Sistema de agendamento para estética automotiva, com gestão de horários, clientes e serviços. Projeto pensado para se tornar um produto SaaS (código fechado nesta fase).</p>
+      <h3>Trimo OS.</h3>
+      <p>Sistema de agendamento para estética automotiva, com gestão de horários, equipe e serviços. Projeto pensado para se tornar um produto SaaS (código fechado).</p>
       <p><code>Next.js</code> <code>Node.js</code> <code>PostgreSQL</code></p>
       <p>
         <img src="https://img.shields.io/badge/em_desenvolvimento-2B2B2B?style=flat-square" alt="Em desenvolvimento" />
-        <a href="https://trimo-detail.vercel.app/"><img src="https://img.shields.io/badge/Acessar_sistema-FF5A1F?style=flat-square&logo=vercel&logoColor=white" alt="Acessar sistema" /></a>
+        <a href="https://trimo.app.br/"><img src="https://img.shields.io/badge/Acessar_sistema-FF5A1F?style=flat-square&logo=vercel&logoColor=white" alt="Acessar sistema" /></a>
       </p>
     </td>
   </tr>
